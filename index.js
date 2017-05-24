@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import TeslaApp from './TeslaApp';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
+  <TeslaApp />,
   document.getElementById('root')
 );
